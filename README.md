@@ -4,6 +4,10 @@ Foo bar
 
 ## Changelog
 
+### 0.2.1
+
+Second patch
+
 ### 0.2.0
 
 Second release
