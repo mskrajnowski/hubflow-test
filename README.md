@@ -1,3 +1,3 @@
 # hubflow-test
 
-Foo bar baz
+Foo bar
